@@ -1,7 +1,5 @@
 package emailapp;
 
-import java.util.Locale;
-import java.util.Map;
 import java.util.Scanner;
 
 public class Email {
